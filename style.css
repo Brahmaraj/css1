@@ -15,6 +15,7 @@ p{
 }
 .highlight{
     background-color: yellow;
+    letter-spacing: 3px;
 }
 .no-link{
     text-decoration: none;
