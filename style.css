@@ -11,10 +11,12 @@ p{
     color: maroon;
 }
 .space{
-    letter-spacing: 3px;
+    letter-spacing: 4px;
 }
 .highlight{
     background-color: yellow;
+    font-weight: 700;
+    
 }
 .no-link{
     text-decoration: none;
