@@ -1,0 +1,21 @@
+.head1{
+    color: red;
+}
+.head2{
+    color: orange;
+}
+p{
+    color: maroon;
+}
+.maroon{
+    color: maroon;
+}
+.space{
+    letter-spacing: 3px;
+}
+.highlight{
+    background-color: yellow;
+}
+.no-link{
+    text-decoration: none;
+}
